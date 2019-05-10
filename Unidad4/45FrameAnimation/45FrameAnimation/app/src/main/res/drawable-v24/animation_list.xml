@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/antman1" android:duration="100" />
+    <item android:drawable="@drawable/antman2" android:duration="100" />
+    <item android:drawable="@drawable/antman3" android:duration="100" />
+    <item android:drawable="@drawable/blackpanther1" android:duration="100" />
+    <item android:drawable="@drawable/blackpanther2" android:duration="100" />
+    <item android:drawable="@drawable/blackpanther3" android:duration="100" />
+    <item android:drawable="@drawable/blackwidow1" android:duration="100" />
+    <item android:drawable="@drawable/blackwidow2" android:duration="100" />
+    <item android:drawable="@drawable/blackwidow3" android:duration="100" />
+    <item android:drawable="@drawable/cap1" android:duration="100" />
+    <item android:drawable="@drawable/cap3" android:duration="100" />
+    <item android:drawable="@drawable/cap4" android:duration="100" />
+    <item android:drawable="@drawable/gamora1" android:duration="100" />
+    <item android:drawable="@drawable/gamora2" android:duration="100" />
+    <item android:drawable="@drawable/gamora3" android:duration="100" />
+    <item android:drawable="@drawable/ironman1" android:duration="100" />
+    <item android:drawable="@drawable/ironman2" android:duration="100" />
+    <item android:drawable="@drawable/ironman3" android:duration="100" />
+    <item android:drawable="@drawable/ironman4" android:duration="100" />
+    <item android:drawable="@drawable/thor1" android:duration="100" />
+    <item android:drawable="@drawable/thor2" android:duration="100" />
+
+</animation-list>
